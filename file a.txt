@@ -1,0 +1,2 @@
+ini adalah file a.txt
+ Ini adalah teks yang dibuat dengan append
